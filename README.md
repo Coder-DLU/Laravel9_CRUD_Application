@@ -447,7 +447,11 @@ Route::resource('products', ProductController::class);
     </div>
 @endsection
 ```
-## 6. Chạy project php artisan serve
+## 7. Chạy project
+
+```Dockerfile
+php artisan serve
+```
 -  Vào 
 http://localhost:8000/products
 
