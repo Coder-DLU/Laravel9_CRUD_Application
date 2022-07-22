@@ -13,8 +13,8 @@ composer create-project laravel/laravel laravel9_crud_application
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=here your database name(blog)
-DB_USERNAME=here database username(root)
+DB_DATABASE=here your database name(blog)   Ví dụ như laravel9_crud_application
+DB_USERNAME=here database username(root)    
 DB_PASSWORD=here database password(root)
 ```
 
